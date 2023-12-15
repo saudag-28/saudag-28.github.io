@@ -15,6 +15,6 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Master's student at Carnegie Mellon University's Robotics Institute majoring in Robotic Systems Development. I am particularly interested in working on **motion planning** algorithms for a robot.
+I am a Master's student at Carnegie Mellon University's Robotics Institute majoring in Robotic Systems Development.
 
-Prior to joining CMU, I worked in the robotics department of TIH-IoT, IIT Bombay. My work here focused on developing a localization stack for a four-wheeled robot. Apart from this, I worked on a visual-servoing problem that used a depth camera to navigate the robot across crop rows (for a detailed description, got to <a href='http://127.0.0.1:4000/projects/'>Projects</a> section).
+Before joining CMU, my professional endeavors primarily revolved around integrating sub-systems for a mobile robot and developing ROS-based software. At CMU, my focus is on acquiring a profound understanding of the critical elements that contribute to the autonomy of robotic systems and advancing my research in the realm of safe autonomy. This motivation led me to enroll in the "Planning and Decision-Making in Robotics" course instructed by Prof. Maxim Likhachev. This course exposed me to a diverse array of algorithmic techniques employed in the planning and decision-making processes in robotics, providing an opportunity to implement these algorithms using C++. Moving forward, I plan to delve deeper into exploring methodologies for designing safe human-robot interaction models.
