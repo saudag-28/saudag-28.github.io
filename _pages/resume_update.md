@@ -1,7 +1,7 @@
 ---
-layout:  <a href="/assets/pdf/Ghatge, Saudamini_6.pdf" target="_blank">Resume</a>
+layout:
 permalink: /resume/
-title: Resume
+title: href="/assets/pdf/Ghatge, Saudamini_6.pdf" target="_blank"
 description:
 nav: true
 nav_order: 3
