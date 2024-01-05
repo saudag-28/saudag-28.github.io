@@ -5,8 +5,5 @@ title: Resume
 description:
 nav: true
 nav_order: 3
+redirect: /assets/pdf/Ghatge, Saudamini_8.pdf
 ---
-
-<script>
-  window.location.replace("/assets/pdf/Ghatge, Saudamini_8.pdf");
-</script>
