@@ -1,8 +1,13 @@
 ---
 layout: default
+permalink: /resume/
 title: Resume
 description:
 nav: true
 nav_order: 3
-redirect: assets/pdf/Ghatge,%20Saudamini_8.pdf
 ---
+
+<script>
+    var resumeLink = "assets/pdf/Ghatge, Saudamini_8.pdf";
+    window.open(resumeLink, '_blank');
+</script>
