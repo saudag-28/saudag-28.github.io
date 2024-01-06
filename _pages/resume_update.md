@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 <script>
+    // Use window.location.href to navigate to the PDF file
     var resumeLink = "assets/pdf/Ghatge, Saudamini_8.pdf";
-    window.open(resumeLink, '_blank');
+    window.location.href = resumeLink;
 </script>
