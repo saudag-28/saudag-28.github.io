@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /resume/
 title: Resume
 description:
 nav: true
