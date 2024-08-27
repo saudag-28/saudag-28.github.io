@@ -23,5 +23,3 @@ My research interests lie in planning and decision-making for multi-agent system
 
 Before joining CMU, my professional endeavors primarily revolved around integrating sub-systems for a mobile robot and developing ROS-based software.
 I have worked extensively on integrating hardware for the robot and implementing ros-based packages on nvidia processors for various applications.
-
-Moving forward, I plan to delve deeper into exploring methodologies for designing **safe human-robot interaction models.**
