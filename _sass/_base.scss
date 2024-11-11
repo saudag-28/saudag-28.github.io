@@ -85,9 +85,8 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-
   img {
-    width: 100%;
+    width: auto;
   }
 
   .card-title {
@@ -96,14 +95,37 @@ blockquote {
 
   .card-item {
     width: auto;
-    margin-bottom: 10px;
+    margin-bottom: 1.5rem;
+    margin: 0 0 20px 0;
 
     .row {
       display: flex;
-      align-items: center;
+      align-items: stretch;
     }
   }
 }
+
+// .card {
+//   display: flex;
+//   gap: 20px; /* Space between cards */
+//   background-color: var(--global-card-bg-color);
+// }
+
+// .card {
+//   flex: 1; /* All cards will grow equally */
+//   display: flex;
+//   flex-direction: column;
+//   padding: 20px;
+// }
+
+// .card img {
+//   width: 10%;
+// }
+
+// .card h3 {
+//   margin-top: auto; /* Pushes the heading down */
+// }
+
 
 // Citation
 
