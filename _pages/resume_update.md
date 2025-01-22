@@ -8,5 +8,5 @@ nav_order: 3
 ---
 
 <script>
-    window.location.replace("/assets/pdf/Ghatge, Saudamini_resume.pdf");
+    window.location.replace("/assets/pdf/Ghatge, Saudamini_robotics_resume.pdf");
 </script>
